@@ -72,13 +72,7 @@ export function LoveLetterModal({ isOpen, onClose }: LoveLetterModalProps) {
           </p>
 
           <p>
-            You always find a way to make ordinary days feel extraordinary. 
-            Your laugh is my favorite sound, your scent is my favorite place to hide. 
-            The way you look at me makes me feel seen, heard, and loved. 
-          </p>
-
-          <p>
-            Thank you for being patient with me, for growing with me, thank you for holding my hands and always being the first person to believe in me when I forget how to believe in myself. 
+            Thank you for being patient with me, for growing with me, thank you for holding mgity hands and always being the first person to believe in me when I forget how to believe in myself. 
             Thank you for tearing up with me during those hard late-night conversations. 
             Thank you for being kind and gentle, and for always making time for me.
           </p>
@@ -90,8 +84,9 @@ export function LoveLetterModal({ isOpen, onClose }: LoveLetterModalProps) {
           </p>
 
           <p className="font-medium">
-            You are my person. My favorite hello and my hardest goodbye. 
-            My calm in the chaos. I love you.
+            You are my person. 
+            My calm in the chaos. 
+            I love you.
           </p>
 
           <div className="text-right pt-8">
