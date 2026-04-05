@@ -17,23 +17,21 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'Six Months',
   description: 'A celebration of six beautiful months together',
-  generator: 'v0.app',
   icons: {
-    icon: [
+    icon: '/icon.png',
+    apple: '/icon.png',
+  },
+  openGraph: {
+    title: 'Six Months',
+    description: 'A celebration of six beautiful months together',
+    images: [
       {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
+        url: '/opengraph-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'The Book of Us',
       },
     ],
-    apple: '/apple-icon.png',
   },
 }
 
