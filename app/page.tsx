@@ -56,11 +56,11 @@ export default function StoryPage() {
           </p>
           
           <h1 className="text-6xl md:text-8xl font-serif font-medium text-foreground mb-6 animate-in fade-in zoom-in-95 duration-1000 delay-200">
-            Our Story
+            Six Months
           </h1>
           
           <p className="text-lg md:text-xl font-serif italic text-foreground/60 mb-12 animate-in fade-in duration-1000 delay-500">
-            Six chapters. One hundred and eighty days. A lifetime of memories.
+            Six chapters. One hundred and eighty days.
           </p>
           
           <div className="flex flex-col items-center gap-4 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-700">
