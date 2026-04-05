@@ -78,7 +78,7 @@ export function LoveLetterModal({ isOpen, onClose }: LoveLetterModalProps) {
           </p>
 
           <p>
-            Thank you for being patient with me, for growing with me, and for choosing me every single day. 
+            Thank you for being patient with me, for growing with me, thank you for holding my hands and always being the first person to believe in me when I forget how to believe in myself. 
             Thank you for tearing up with me during those hard late-night conversations. 
             Thank you for being kind and gentle, and for always making time for me.
           </p>
