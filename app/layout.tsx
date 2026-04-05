@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Our Story | 6 Months Together',
+  title: 'Six Months',
   description: 'A celebration of six beautiful months together',
   generator: 'v0.app',
   icons: {
