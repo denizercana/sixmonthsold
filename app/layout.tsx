@@ -16,7 +16,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: 'Six Months',
-  description: 'A celebration of six beautiful months together',
+  description: 'gift',
   icons: {
     icon: '/images/icon.png',
     apple: '/images/icon.png',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description: "",
     images: [
       {
-        url: '/opengraph-image.png',
+        url: '/images/opengraph-image.png',
         width: 1200,
         height: 630,
         alt: 'The Book of Us',
