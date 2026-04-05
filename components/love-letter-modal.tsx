@@ -65,47 +65,39 @@ export function LoveLetterModal({ isOpen, onClose }: LoveLetterModalProps) {
 
         {/* Letter content */}
         <div className="space-y-6 font-serif text-lg md:text-xl leading-relaxed text-foreground/85">
-          <p className="text-foreground/60 italic">My Dearest,</p>
+          <p className="text-foreground/60 italic">Dear Tyler,</p>
           
           <p>
             Six months ago, I couldn&apos;t have imagined how completely you would change my world. 
-            Every moment with you feels like a gift I never knew I was waiting for.
           </p>
 
           <p>
-            You have this incredible way of making ordinary days feel extraordinary. 
-            Your laugh is my favorite sound, your smile my favorite sight. 
-            The way you look at me makes me feel seen in a way I&apos;ve never experienced before.
+            You always find a way to make ordinary days feel extraordinary. 
+            Your laugh is my favorite sound, your scent is my favorite... 
+            The way you look at me makes me feel seen, heard, and loved. 
           </p>
 
           <p>
-            I love how you remember the little things — the way I take my coffee, 
-            the songs that make me nostalgic, the dreams I&apos;ve shared only with you. 
-            You pay attention to the details that others overlook, 
-            and that attention is a form of love I treasure deeply.
-          </p>
-
-          <p>
-            Thank you for being patient with me, for growing with me, 
-            for choosing me every single day. Thank you for the late-night conversations, 
-            the comfortable silences, the adventures big and small.
+            Thank you for being patient with me, for growing with me, and for choosing me every single day. 
+            Thank you for tearing up with me during those hard late-night conversations. 
+            Thank you for being kind and gentle, and for always making time for me.
           </p>
 
           <p>
             These six months have been the beginning of something beautiful. 
-            I can&apos;t wait to see where our story takes us next — 
-            through every season, every challenge, every celebration.
+            I can&apos;t wait to see where our story takes us next — through every season, 
+            every challenge, and every celebration.
           </p>
 
-          <p>
+          <p className="font-medium">
             You are my person. My favorite hello and my hardest goodbye. 
-            My calm in the chaos. My home.
+            My calm in the chaos. I love you.
           </p>
 
-          <p className="text-right italic text-foreground/60 pt-4">
-            Forever yours,<br />
-            <span className="text-foreground/80">With all my love</span>
-          </p>
+          <div className="text-right pt-8">
+            <p className="text-foreground/50 text-sm uppercase tracking-widest pb-1">Best,</p>
+            <p className="text-foreground/90 font-medium text-3xl italic">Deniz</p>
+          </div>
         </div>
       </div>
     </div>
