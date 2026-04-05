@@ -26,8 +26,7 @@ export const metadata: Metadata = {
     description: "",
     images: [
       {
-        url: '/images/opengraph-image.png',
-        width: 1200,
+        url: 'https://sixmonthsold.denizercana.com/images/opengraph-image.png',
         height: 630,
         alt: 'The Book of Us',
       },
