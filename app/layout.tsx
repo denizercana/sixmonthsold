@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Six Months',
-    description: 'A celebration of six beautiful months together',
+    description: "",
     images: [
       {
         url: '/opengraph-image.png',
