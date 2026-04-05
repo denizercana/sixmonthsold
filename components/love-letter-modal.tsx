@@ -73,7 +73,7 @@ export function LoveLetterModal({ isOpen, onClose }: LoveLetterModalProps) {
 
           <p>
             You always find a way to make ordinary days feel extraordinary. 
-            Your laugh is my favorite sound, your scent is my favorite... 
+            Your laugh is my favorite sound, your scent is my favorite place to hide. 
             The way you look at me makes me feel seen, heard, and loved. 
           </p>
 
