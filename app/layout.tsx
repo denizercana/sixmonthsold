@@ -18,8 +18,8 @@ export const metadata: Metadata = {
   title: 'Six Months',
   description: 'A celebration of six beautiful months together',
   icons: {
-    icon: '/icon.png',
-    apple: '/icon.png',
+    icon: '/images/icon.png',
+    apple: '/images/icon.png',
   },
   openGraph: {
     title: 'Six Months',
